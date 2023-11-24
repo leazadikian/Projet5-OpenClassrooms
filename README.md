@@ -6,7 +6,7 @@ Parcours Data Scientist - Projet 5 : Segmentez des clients d'un site e-commerce
 
 **Contexte :**
 
-Nous sommes consultants pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne. Olist souhaite que vous fournissiez à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
+Nous sommes consultants pour Olist, une entreprise brésilienne qui propose une solution de vente sur les marketplaces en ligne. Olist souhaite fournir à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
 Notre objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
 
